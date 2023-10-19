@@ -18,13 +18,13 @@ This repository contains four separate Jupyter notebooks for analyzing fluoresce
 
 ## Overview
 
-1. Calculating DNA Polymerase Trace (OT): Calculate the end-to-end distance between two optically trapped beads. This distance includes fractions of ssDNA and dsDNA. The notebook aids in determining the percentages of ssDNA and dsDNA, as well as the junction position between them. Finally, the variations in this junction position are plotted over time.
+1. [Calculating DNA Polymerase Trace (OT)](1_CalculatingDNApTrace_OT.ipynb): Calculate the end-to-end distance between two optically trapped beads. This distance includes fractions of ssDNA and dsDNA. The notebook aids in determining the percentages of ssDNA and dsDNA, as well as the junction position between them. Finally, the variations in this junction position are plotted over time.
 
-2. Correlation between Image and Force: This notebook focuses on extracting DNAp-bound events. It uses the AutoStepfinder tool in MATLAB to detect the step behavior in the fluorescence intensity of DNAp.
+2. [Correlation between Image and Force](2_Correlation_image_force.ipynb): This notebook focuses on extracting DNAp-bound events. It uses the AutoStepfinder tool in MATLAB to detect the step behavior in the fluorescence intensity of DNAp.
 
-3. Correlated Segment Analysis: [Description required. The notebook lacked markdown cells for a direct overview. Users are advised to refer directly to the notebook for details.]
+3. [Correlated Segment Analysis](3_Correlated_segement_analysis.ipynb): This notebook dives further into the correlated segment analysis. 
 
-4. Heatmap of Intensity vs. Activity: Starts by verifying data from steps 1 and 2. It then proceeds to plot a correlation heatmap. The analysis delves deep into the correlation heatmap data, focusing on ratios of non-fluorescent pausing to all pausing events and further nuances of the data.
+4. [Heatmap of Intensity vs. Activity](4_Heatmap_intensity_activity.ipynb): Starts by verifying data from steps 1 and 2. It then proceeds to plot a correlation heatmap. The analysis delves deep into the correlation heatmap data, focusing on ratios of non-fluorescent pausing to all pausing events and further nuances of the data.
 
 ### Example Trace:
 An example trace of the analysis is provided in the folder example data analysis. Users can refer to this example to understand the expected outcomes at each step of the process. Please use the `example_dataset` for a [walkthrough](example_dataset).
