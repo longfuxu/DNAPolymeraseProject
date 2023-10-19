@@ -27,7 +27,7 @@ This repository contains four separate Jupyter notebooks for analyzing fluoresce
 4. Heatmap of Intensity vs. Activity: Starts by verifying data from steps 1 and 2. It then proceeds to plot a correlation heatmap. The analysis delves deep into the correlation heatmap data, focusing on ratios of non-fluorescent pausing to all pausing events and further nuances of the data.
 
 ### Example Trace:
-An example trace of the analysis is provided in the folder example data analysis. Users can refer to this example to understand the expected outcomes at each step of the process.
+An example trace of the analysis is provided in the folder example data analysis. Users can refer to this example to understand the expected outcomes at each step of the process. Please use the `example_dataset` for a [walkthrough](example_dataset).
 
 ### Usage:
 - Begin with the notebook 1_CalculatingDNApTrace_OT.ipynb and follow the instructions.
