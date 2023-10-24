@@ -43,9 +43,9 @@ Ensure the MATLAB setup is correct, especially when using the AutoStepfinder too
 
 # 🛡 Disclaimer
 
-All codes listed in this repository are developed by Longfu Xu (longfuxu.com) during the phD work in Gijs Wuite Group.
+All codes listed in this repository are developed by Longfu Xu (longfuxu.com) during the phD work in [Gijs Wuite Group](http://www.gijswuite.com/).
 
-Please note that the code in this repository is custom written for internal lab use and still may contain bugs; external support cannot be guaranteed.
+Please note that the code in this repository is custom written for internal lab use and still may contain bugs; we highly welcome contributions!
 
 
 Developer:
@@ -53,4 +53,4 @@ Developer:
 Longfu Xu (longfuxu.com) . Maintenance, development, support. For questions or reports, e-mail: [longfu2.xu@gmail.com](mailto:l2.xu@vu.nl)
 
 # 🚀 Contributing
-We highly welcome contributions! For contribution please contact Longfu xu or Prof. Gijs
+We highly welcome contributions! For contribution please contact Longfu xu or Prof. Gijs Wuite
