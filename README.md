@@ -54,3 +54,6 @@ Longfu Xu (longfuxu.com) . Maintenance, development, support. For questions or r
 
 # 🚀 Contributing
 We highly welcome contributions! For contribution please contact Longfu xu or Prof. Gijs Wuite
+
+# Citation
+Xu, L. (2023) Grab, manipulate and watch single DNA molecule replication. PhD-Thesis - Research and graduation internal. Available at: https://doi.org/10.5463/thesis.424.
