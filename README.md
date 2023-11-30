@@ -41,19 +41,13 @@ Ensure the MATLAB setup is correct, especially when using the AutoStepfinder too
 - Some notebooks might require additional tools or software. Ensure you have them installed and properly configured.
 
 
-# 🛡 Disclaimer
-
-All codes listed in this repository are developed by Longfu Xu (longfuxu.com) during the phD work in [Gijs Wuite Group](http://www.gijswuite.com/).
-
-Please note that the code in this repository is custom written for internal lab use and still may contain bugs; we highly welcome contributions!
-
-
-Developer:
+# Developer
+All codes listed in this repository are developed by Dr. Longfu Xu (longfuxu.com) during the PhD work in [Gijs Wuite Lab](http://www.gijswuite.com/).
 
 Longfu Xu (longfuxu.com) . Maintenance, development, support. For questions or reports, e-mail: [longfu2.xu@gmail.com](mailto:l2.xu@vu.nl)
 
 # 🚀 Contributing
-We highly welcome contributions! For contribution please contact Longfu xu or Prof. Gijs Wuite
+Please note that the code in this repository is custom written for internal lab use and still may contain bugs; we highly welcome contributions! Please fork the repository, make your changes, and submit a pull request. For contribution you can aslo contact Longfu Xu or Prof. Gijs Wuite
 
 # Citation
 Xu, L. (2023) Grab, manipulate and watch single DNA molecule replication. PhD-Thesis - Research and graduation internal. Available at: https://doi.org/10.5463/thesis.424.
