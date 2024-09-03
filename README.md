@@ -80,7 +80,7 @@ We welcome contributions to enhance and expand this project. Please fork the rep
 Please note that the code in this repository is custom written for internal lab use and still may contain bugs. For questions, support, or feedback, please contact Dr. Longfu Xu at [longfu2.xu@gmail.com](mailto:longfu2.xu@gmail.com). 
 
 ## Citation
-Xu, L. (2023) Grab, manipulate and watch single DNA molecule replication. PhD-Thesis - Research and graduation internal. Available at: https://doi.org/10.5463/thesis.424.
+Xu, L., Halma, M.T.J. & Wuite, G.J.L. Mapping fast DNA polymerase exchange during replication. *Nat Commun* **15**, 5328 (2024). https://doi.org/10.1038/s41467-024-49612-3
 
 ## License
 This project is licensed under MPL-2.0 license. See `LICENSE` file for more details.
